@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType ={
+		name = "GFX_idea_SOV_FSB"
+		texturefile = "gfx/interface/ideas/russia/SOV_FSB.dds"
+	}
+}
